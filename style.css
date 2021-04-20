@@ -1,0 +1,25 @@
+#box-1{border-style: solid;
+    color: mediumturquoise;
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+    margin: 30px;}
+#box-2{background-color: mediumturquoise;
+    color: white;
+    border-radius: 50px;
+    margin: 30px;
+    width: 30px;
+    text-align: center;
+    height: 30px;
+    font-size: 25px}
+#box-3{background-color: steelblue;
+    color: white;
+    width: 150px;
+    text-align: center;
+    margin: 30px;
+    height: 30px;
+    font-size: 20px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: black 5px 5px;
+    }
